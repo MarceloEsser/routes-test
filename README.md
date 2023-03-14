@@ -2,8 +2,8 @@
 
 A Project to study some DI and Navigation concepts
 
-## ViewModelStore
+### ViewModelStore
 Where we add all view models injections, it could be separated by modules if necessary
 
-## RouteStore
+### RouteStore
 Where are the routes/screens and it dependencies
